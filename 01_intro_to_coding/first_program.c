@@ -19,6 +19,8 @@ First program in C
 int main(void) {
     printf("Hello\nWorld\n");
     printf("I\nam\nready\nto\ncode!\n");
+    printf("A\tB\tC\n");
 
+    
     return 0;
 }

@@ -2,9 +2,11 @@ ls - Lists content in current dir
 cd - Changes Directory
 code <file name> - makes file with that name
 mkdir - Make Directory (Folder)
+cd .. (UP A DIR)
 
 
 
 RUN COMMANDS
 gcc <file_name>
 ./<file_name>
+
